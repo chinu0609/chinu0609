@@ -29,10 +29,6 @@
 
 ---
 
-## 🌟 **Fun Extras**
-
-![Coding GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)  
-
 ### GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinu0609&show_icons=true&theme=radical)  
@@ -42,7 +38,7 @@
 
 ## 📫 **Connect with Me**
 
-[![Gmail](chinmayhbhosale02@gmail.com)]
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chinmayhbhosale02@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/yourusername)
 
 ---
