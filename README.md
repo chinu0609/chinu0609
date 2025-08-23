@@ -1,8 +1,18 @@
+<h2 align="center"> Hey there, I'm <span style="color:#00F7FF;">Chinmay Hemant Bhosale</span> </h1>
 
-# Hi, I'm Chinmay! 👋  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+%7C+Visionary+Technologist;Deep+Learning+%7C+Computer+Vision+%7C+NLP;AWS+%7C+MLOps+%7C+DevOps+Mastery;Turning+Ideas+into+AI-Powered+Reality" />
+</p>
 
-![Hello GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" alt="AI Animation"/>
+</p>
+
+---
+
+## 🧠 About Me
 🌍 **Location**: Maharashtra, India  
 💻 **Interests**: Mathematics | Computers | Linux | Machine Learning (ML) | Deep Learning (DL)  
 🏆 **Goal**: Continuously learning and growing to become a well-rounded, knowledgeable individual.  
@@ -27,25 +37,35 @@
 - 🐧 Tinkering with Linux systems to optimize workflows.  
 - 📚 Continuously exploring advanced topics in AI and mathematics.
 
----
-
-### GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinu0609&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinu0609&layout=compact&theme=radical)  
 
 ---
+## ⚡ Tech Stack Power-Up
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,fastapi,flask,django,linux,git,mysql,mongodb,redis" />
+</p>
 
-## 📫 **Connect with Me**
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chinmayhbhosale02@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/chinu0609)
+---
+## 📊 GitHub Performance
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinu0609&theme=tokyo-night&hide_border=true" width="100%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chinu0609&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinu0609&theme=radical" width="48%"/>
+</div>
 
 ---
 
-✨ *Let's build something amazing together!*  
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://chinu0609.github.io/chinmay-portfolio/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/chinmay-bhosale"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/chinu0609"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:chinmaybhosale0609@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
 
 
-
-
-
+<h3 align="center">💡 "Exploring AI, Deep Learning & Tech with Creativity and Passion!" 💡</h3>
