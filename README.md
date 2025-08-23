@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/LangGraph-1E90FF?logo=graphql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />
 </p>
----
+
 ## 📊 GitHub Performance
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinu0609&theme=tokyo-night&hide_border=true" width="100%"/>
@@ -58,6 +58,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chinu0609/chinu0609/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
