@@ -59,7 +59,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chinu0609/chinu0609/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/chinu0609/chinu0609/output/snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
