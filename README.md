@@ -40,7 +40,7 @@
 
 ---
 ## ⚡ Tech Stack Power-Up<p align="center">
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,aws,fastapi,flask,linux,git,mysql,mongodb,redis" /><br><br>
   
   <!-- Custom badges for missing ones -->
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/LangGraph-1E90FF?logo=graphql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />
 </p>
-
 ---
 ## 📊 GitHub Performance
 <div align="center">
